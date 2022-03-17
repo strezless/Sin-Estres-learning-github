@@ -1,0 +1,1 @@
+{% data variables.product.prodname_actions %} usage is free for both public repositories and self-hosted runners. Para repositórios privados, cada conta {% data variables.product.prodname_dotcom %} recebe uma certa quantidade de minutos e armazenamento gratuitos, dependendo do produto usado com a conta. Any usage beyond the included amounts is controlled by spending limits.
