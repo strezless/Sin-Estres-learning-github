@@ -1,0 +1,1 @@
+Qualquer pessoa pode publicar uma ação em {% data variables.product.prodname_marketplace %}. {% data variables.product.prodname_dotcom %} verifies some partner organizations and these are shown as verified creators.
