@@ -1,0 +1,1 @@
+Se você estiver patrocinando em nome da sua conta de usuário, você será cobrado imediatamente um valor proporcional ao tempo até sua próxima data normal de cobrança. Se estiver patrocinando em nome de uma organização, você poderá optar por pagar o valor rateado ou fazer o pagamento mensal completo.
